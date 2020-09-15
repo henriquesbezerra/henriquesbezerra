@@ -16,12 +16,9 @@
 
 [<img align="left" alt="Henrique Silva | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/henriquesbezerra)[<img align="left" alt="Henrique Silva | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_henri.silva)
 
-<br />
-
 ---
-<br />
 
-## Languages and Tools:
+### Languages and Tools:
 
 <img align="left"  alt="Visual Studio Code" title="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left"  alt="HTML5" height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -37,7 +34,7 @@
 <br /><br />
 
 
-## Improving:
+### Improving:
 
 <img align="left"  alt="Node.js" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left"  alt="SQL" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -48,18 +45,15 @@
 
 <br /><br />
 
-## I want to learn:
+### I want to learn:
 
 <img align="left" alt="Rust" height="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/rust/rust.png" />
 <img align="left" alt="Deno" height="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
 <img align="left" alt="MongoDB" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Rust" height="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/cpp/cpp.png" />
 
-
-<br />
-
 ---
-<br />
+
 
 <details>
   <summary>:zap: Github Stats</summary>
