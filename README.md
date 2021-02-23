@@ -8,12 +8,13 @@
 - 🌱 I’m currently learning NodeJs, Typescript, Laravel and GraphQL
 - 👯 I’m looking to collaborate with other devs to learn more about game development
 - 🥅 2020/2021 Goals: I want improve my english skils
-- ⚡ Fun fact: I love to draw and play saxphone 
+- ⚡ Fun fact: I love to Draw, play Saxphone and Cello
 
 
 ### Connect with me:
 
 [<img align="left" alt="Henrique Silva | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/henriquesbezerra)[<img align="left" alt="Henrique Silva | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_henri.silva)
+[<img align="left" alt="Henrique Silva | Domestika" width="22px" src="https://github.com/henriquesbezerra/henriquesbezerra/blob/master/icons/domestika-logo.png?raw=true" />](https://app.rocketseat.com.br/me/henrique-silva-1567055993)
 [<img align="left" alt="Henrique Silva | Domestika" width="22px" src="https://github.com/henriquesbezerra/henriquesbezerra/blob/master/icons/domestika-logo.png?raw=true" />](https://www.domestika.org/pt/henriquesbezerra)
 
 
