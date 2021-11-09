@@ -11,6 +11,8 @@
 - 🥅 2020/2021 Goals: I want improve my english skils
 - ⚡ Fun fact: I love to Draw, play Saxphone and Cello
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### Connect with me:
 
