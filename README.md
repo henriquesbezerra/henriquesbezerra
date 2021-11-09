@@ -1,8 +1,10 @@
 
 ### Hi there, I'm [Henrique Silva!](https://github.com/henriquesbezerra) 👋
 
-[![Actions Status](https://github.com/henriquesbezerra/henriquesbezerra/workflows/wakatime-stats/badge.svg)](https://github.com/henriquesbezerra/henriquesbezerra/actions)
-[![Actions Status](https://github.com/henriquesbezerra/henriquesbezerra/workflows/update-gh-activity/badge.svg)](https://github.com/henriquesbezerra/henriquesbezerra/actions)
+[![waka-readme](https://github.com/henriquesbezerra/henriquesbezerra/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/henriquesbezerra/henriquesbezerra/actions/workflows/waka-readme.yml)
+
+[![update-gh-activity](https://github.com/henriquesbezerra/henriquesbezerra/actions/workflows/update-gh-activity.yml/badge.svg)](https://github.com/henriquesbezerra/henriquesbezerra/actions/workflows/update-gh-activity.yml)
+
 ![](https://visitor-badge.glitch.me/badge?page_id=henriquesbezerra.henriquesbezerra)
 
 ## I'm a Husband, Developer and Gamer!
