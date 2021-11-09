@@ -1,3 +1,4 @@
+
 ### Hi there, I'm [Henrique Silva!](https://github.com/henriquesbezerra) 👋
 
 ## I'm a Husband, Developer and Gamer!
@@ -65,7 +66,8 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=henriquesbezerra&show_icons=true&hide_border=true" />
+  <ul>
+    <li>Teste 1234</li>
+  </li>
 
 </details>
