@@ -1,35 +1,20 @@
 <img align="center"  alt="Henrique Readme Banner" title="Henrique Readme Banner" src="https://github.com/henriquesbezerra/henriquesbezerra/blob/master/icons/background-gh.gif" />
 <br />
 
-<style>
-  .header-hello{
-    width: 100%;
-    display: flex;
-    flex-direction: row;
-    align-items: space-between;
-    flex: 1;
-  }
-</style>
+<a href="https://www.linkedin.com/in/henriquesbezerra" target="_blank" rel="nofollow">
+  <img  alt="Henrique Silva | Instagram" align="right" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.linkedin.com/in/henriquesbezerra" target="_blank" rel="nofollow" >
+  <img alt="Henrique Silva | LinkedIn" align="right" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.domestika.org/pt/henriquesbezerra" target="_blank" rel="nofollow" >
+  <img alt="Henrique Silva | Domestika" align="right" width="22px" src="https://github.com/henriquesbezerra/henriquesbezerra/blob/master/icons/domestika-logo.png?raw=true" />
+</a>
+<a href="https://app.rocketseat.com.br/me/henrique-silva-1567055993" target="_blank" rel="nofollow" >
+  <img alt="Henrique Silva | RocketSeat" align="right"  width="22px" src="https://github.com/henriquesbezerra/henriquesbezerra/blob/master/icons/rocketseat.ico?raw=true" />
+</a>
 
-<div class="header-hello">
-  <div><h4>Hi There!, I`m Henrique Silva</h4></div>
-  <div>
-  <td align="right">
-    <a href="https://www.linkedin.com/in/henriquesbezerra" target="_blank" rel="nofollow" style="margin-right:5px;">
-      <img  alt="Henrique Silva | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-    </a>
-    <a href="https://www.linkedin.com/in/henriquesbezerra" target="_blank" rel="nofollow"  style="margin-right:5px;">
-      <img alt="Henrique Silva | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-    </a>
-    <a href="https://www.domestika.org/pt/henriquesbezerra" target="_blank" rel="nofollow"  style="margin-right:5px;">
-      <img alt="Henrique Silva | Domestika" width="22px" src="https://github.com/henriquesbezerra/henriquesbezerra/blob/master/icons/domestika-logo.png?raw=true" />
-    </a>
-    <a href="https://app.rocketseat.com.br/me/henrique-silva-1567055993" target="_blank" rel="nofollow" >
-      <img alt="Henrique Silva | RocketSeat" width="22px" src="https://github.com/henriquesbezerra/henriquesbezerra/blob/master/icons/rocketseat.ico?raw=true" />
-    </a>
-    </div>
-
-</div>
+#### Hi There!, I`m Henrique Silva
 
 
 ---
