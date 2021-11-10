@@ -1,8 +1,9 @@
-name: update-gh-activity
+name: update-activity
 
 on:
   schedule:
-    - cron: '30 * * * *'
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
 
 jobs:
   build:
