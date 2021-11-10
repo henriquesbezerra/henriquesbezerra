@@ -2,6 +2,8 @@
 
 <br />
 
+# Hi There!
+
 <a href="https://www.linkedin.com/in/henriquesbezerra" target="_blank" rel="nofollow">
   <img  alt="Henrique Silva | Instagram" align="right" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -15,12 +17,11 @@
   <img alt="Henrique Silva | RocketSeat" align="right"  width="22px" src="https://github.com/henriquesbezerra/henriquesbezerra/blob/master/icons/rocketseat.ico?raw=true" />
 </a>
 
-Hi There!, I`m Henrique Silva
+<p>Connect with me!</p>
 
----
+## About me
 
-
-Web Developer with main experience as Front-end, B.S. in Information Systems from Universidade Estácio de Sá, Technical Education from Centro Federal de Educação Tecnológica Celso Suckow da Fonseca.
+I`m a web developer with main experience as Front-end, B.S. in Information Systems from Universidade Estácio de Sá, Technical Education from Centro Federal de Educação Tecnológica Celso Suckow da Fonseca.
 
 Currently I'm working as a full stack developer at Onawa, taking care and evolving an API in Laravel, Web applications in React and an App with React Native.
 
