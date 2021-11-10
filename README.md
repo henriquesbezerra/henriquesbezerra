@@ -15,7 +15,9 @@
   <img alt="Henrique Silva | RocketSeat" align="right"  width="22px" src="https://github.com/henriquesbezerra/henriquesbezerra/blob/master/icons/rocketseat.ico?raw=true" />
 </a>
 
-#### Hi There!, I`m Henrique Silva
+Hi There!, I`m Henrique Silva
+
+---
 
 
 Web Developer with main experience as Front-end, B.S. in Information Systems from Universidade Estácio de Sá, Technical Education from Centro Federal de Educação Tecnológica Celso Suckow da Fonseca.
