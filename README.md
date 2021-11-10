@@ -3,7 +3,7 @@
 
 [![waka-readme](https://github.com/henriquesbezerra/henriquesbezerra/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/henriquesbezerra/henriquesbezerra/actions/workflows/waka-readme.yml)
 
-[![update-gh-activity](https://github.com/henriquesbezerra/henriquesbezerra/actions/workflows/update-gh-activity.yml/badge.svg)](https://github.com/henriquesbezerra/henriquesbezerra/actions/workflows/update-gh-activity.yml)
+[![update-activity](https://github.com/henriquesbezerra/henriquesbezerra/actions/workflows/update-activity.yml/badge.svg)](https://github.com/henriquesbezerra/henriquesbezerra/actions/workflows/update-activity.yml)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=henriquesbezerra.henriquesbezerra)
 
