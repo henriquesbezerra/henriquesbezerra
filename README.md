@@ -11,8 +11,8 @@
 
 ## :zap: Recent Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/henriquesbezerra/henriquesbezerra/pull/2) in [henriquesbezerra/henriquesbezerra](https://github.com/henriquesbezerra/henriquesbezerra)
-2. 💪 Opened PR [#2](https://github.com/henriquesbezerra/henriquesbezerra/pull/2) in [henriquesbezerra/henriquesbezerra](https://github.com/henriquesbezerra/henriquesbezerra)
+1. 🎉 Merged PR [#4](https://github.com/henriquesbezerra/henriquesbezerra/pull/4) in [henriquesbezerra/henriquesbezerra](https://github.com/henriquesbezerra/henriquesbezerra)
+2. 💪 Opened PR [#4](https://github.com/henriquesbezerra/henriquesbezerra/pull/4) in [henriquesbezerra/henriquesbezerra](https://github.com/henriquesbezerra/henriquesbezerra)
 <!--END_SECTION:activity-->
 
 
