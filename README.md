@@ -1,13 +1,67 @@
-<img align="left"  alt="Henrique Readme Banner" title="Henrique Readme Banner" src="https://github.com/henriquesbezerra/henriquesbezerra/blob/master/icons/background-gh.gif" />
-
-<br />
+<img align="center"  alt="Henrique Readme Banner" title="Henrique Readme Banner" src="https://github.com/henriquesbezerra/henriquesbezerra/blob/master/icons/background-gh.gif" />
 <br />
 
-- 🔭 I’m currently working as web & mobile developer at [Onawa](https://www.onawa.me/) !
-- 🌱 I’m currently learning NodeJs, Typescript, Laravel and GraphQL
+<table style="width:100%;" cellspacing="0" cellpadding="0">
+<tr>
+  <td><h4>Hi There!, I`m Henrique Silva</h4></td>
+  <td align="right">
+    <a href="https://www.linkedin.com/in/henriquesbezerra" target="_blank" rel="nofollow" style="margin-right:5px;">
+      <img  alt="Henrique Silva | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    </a>
+    <a href="https://www.linkedin.com/in/henriquesbezerra" target="_blank" rel="nofollow"  style="margin-right:5px;">
+      <img alt="Henrique Silva | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    </a>
+    <a href="https://www.domestika.org/pt/henriquesbezerra" target="_blank" rel="nofollow"  style="margin-right:5px;">
+      <img alt="Henrique Silva | Domestika" width="22px" src="https://github.com/henriquesbezerra/henriquesbezerra/blob/master/icons/domestika-logo.png?raw=true" />
+    </a>
+    <a href="https://app.rocketseat.com.br/me/henrique-silva-1567055993" target="_blank" rel="nofollow" >
+      <img alt="Henrique Silva | RocketSeat" width="22px" src="https://github.com/henriquesbezerra/henriquesbezerra/blob/master/icons/rocketseat.ico?raw=true" />
+    </a>
+  </td>
+<tr>
+</table>
+
+---
+
+Web Developer with main experience as Front-end, B.S. in Information Systems from Universidade Estácio de Sá, Technical Education from Centro Federal de Educação Tecnológica Celso Suckow da Fonseca.
+
+Currently I'm working as a full stack developer at Onawa, taking care and evolving an API in Laravel, Web applications in React and an App with React Native.
+
+I use this account mainly to save and share my experimental projects and case studies. 
+
+<details>
+  <summary>🇧🇷 PT-Br</summary>
+  <br />
+  <div>      
+    Desenvolvedor Web com principal experiência como Front-end, Bacharel em Sistemas de Informação pela Universidade Estácio de Sá, Formação de nível técnico pelo Centro Federal de Educação Tecnológica Celso Suckow da Fonseca. <br /><br />
+    Atualmente estou trabalhando como full stack developer at Onawa, cuidando e evoluindo de uma API em Laravel, Web applications em React e um App com React Native.     
+  </div>  
+  
+</details>
+<br />
+
+
+---
+
+- 🌱 Coding Skills that i`m improving:
+  - NodeJs;
+  - Typescript;
+  - GraphQL;
+- 🏆 2021/2022 Goals:
+  - Improve my english skills;
+  - Build a simple blog in Github Pages to Save & Share my Studies;
+  - More experienced with design patterns;
+  - More experienced with testing softwares;
+  - Develop a small html5 game;
+  - Become a Javascript Enginer.  
+- 🏆 Interests:
+  - Agile Development;
+  - ThreeJs
+  - Blockchain
+  - Game Development
 - 👯 I’m looking to collaborate with other devs to learn more about game development
-- 🥅 2020/2021 Goals: I want improve my english skils
-- ⚡ Fun fact: I love to Draw, play Saxphone and Cello
+
+---
 
 ## :zap: Recent Activity:
 <!--START_SECTION:activity-->
@@ -18,14 +72,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-### Connect with me:
-
-[<img align="left" alt="Henrique Silva | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/henriquesbezerra)[<img align="left" alt="Henrique Silva | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_henri.silva)
-[<img align="left" alt="Henrique Silva | Domestika" width="22px" src="https://github.com/henriquesbezerra/henriquesbezerra/blob/master/icons/rocketseat.ico?raw=true" />](https://app.rocketseat.com.br/me/henrique-silva-1567055993)
-[<img align="left" alt="Henrique Silva | Domestika" width="22px" src="https://github.com/henriquesbezerra/henriquesbezerra/blob/master/icons/domestika-logo.png?raw=true" />](https://www.domestika.org/pt/henriquesbezerra)
-
-
-<br /><br />
+<br />
 
 ---
 
