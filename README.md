@@ -1,15 +1,6 @@
+<img align="left"  alt="Visual Studio Code" title="Visual Studio Code" height="26px" src="https://github.com/henriquesbezerra/henriquesbezerra/blob/master/background-gh.gif" />
 
-### Hi there, I'm [Henrique Silva!](https://github.com/henriquesbezerra) 👋
-
-[![waka-readme](https://github.com/henriquesbezerra/henriquesbezerra/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/henriquesbezerra/henriquesbezerra/actions/workflows/waka-readme.yml)
-
-[![update-activity](https://github.com/henriquesbezerra/henriquesbezerra/actions/workflows/update-activity.yml/badge.svg)](https://github.com/henriquesbezerra/henriquesbezerra/actions/workflows/update-activity.yml)
-
-![](https://visitor-badge.glitch.me/badge?page_id=henriquesbezerra.henriquesbezerra)
-
-## I'm a Husband, Developer and Gamer!
-
-testing pull request activy
+<br />
 <br />
 
 - 🔭 I’m currently working as web & mobile developer at [Onawa](https://www.onawa.me/) !
@@ -18,19 +9,15 @@ testing pull request activy
 - 🥅 2020/2021 Goals: I want improve my english skils
 - ⚡ Fun fact: I love to Draw, play Saxphone and Cello
 
-## testing wakatime
-
-<br />
-
+## :zap: Recent Activity:
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/henriquesbezerra/henriquesbezerra/pull/2) in [henriquesbezerra/henriquesbezerra](https://github.com/henriquesbezerra/henriquesbezerra)
 2. 💪 Opened PR [#2](https://github.com/henriquesbezerra/henriquesbezerra/pull/2) in [henriquesbezerra/henriquesbezerra](https://github.com/henriquesbezerra/henriquesbezerra)
 <!--END_SECTION:activity-->
 
+
+## My Stats
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 ### Connect with me:
@@ -79,9 +66,6 @@ No Activity tracked this Week
 <img align="left" alt="MongoDB" title="MongoDB" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="C++" title="C++" height="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/cpp/cpp.png" />
 
-<br />
-
----
 
 <br />
 
@@ -92,3 +76,9 @@ No Activity tracked this Week
   </li>
 
 </details>
+
+
+---
+[![waka-readme](https://github.com/henriquesbezerra/henriquesbezerra/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/henriquesbezerra/henriquesbezerra/actions/workflows/waka-readme.yml)
+[![update-activity](https://github.com/henriquesbezerra/henriquesbezerra/actions/workflows/update-activity.yml/badge.svg)](https://github.com/henriquesbezerra/henriquesbezerra/actions/workflows/update-activity.yml)
+![](https://visitor-badge.glitch.me/badge?page_id=henriquesbezerra.henriquesbezerra)
