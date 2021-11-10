@@ -1,9 +1,19 @@
 <img align="center"  alt="Henrique Readme Banner" title="Henrique Readme Banner" src="https://github.com/henriquesbezerra/henriquesbezerra/blob/master/icons/background-gh.gif" />
 <br />
 
-<table style="width:100%;" cellspacing="0" cellpadding="0">
-<tr>
-  <td><h4>Hi There!, I`m Henrique Silva</h4></td>
+<style>
+  .header-hello{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: space-between;
+    flex: 1;
+  }
+</style>
+
+<div class="header-hello">
+  <div><h4>Hi There!, I`m Henrique Silva</h4></div>
+  <div>
   <td align="right">
     <a href="https://www.linkedin.com/in/henriquesbezerra" target="_blank" rel="nofollow" style="margin-right:5px;">
       <img  alt="Henrique Silva | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -17,9 +27,10 @@
     <a href="https://app.rocketseat.com.br/me/henrique-silva-1567055993" target="_blank" rel="nofollow" >
       <img alt="Henrique Silva | RocketSeat" width="22px" src="https://github.com/henriquesbezerra/henriquesbezerra/blob/master/icons/rocketseat.ico?raw=true" />
     </a>
-  </td>
-<tr>
-</table>
+    </div>
+
+</div>
+
 
 ---
 
