@@ -1,4 +1,4 @@
-<img align="left"  alt="Visual Studio Code" title="Visual Studio Code" height="26px" src="https://github.com/henriquesbezerra/henriquesbezerra/blob/master/background-gh.gif" />
+<img align="left"  alt="Henrique Readme Banner" title="Henrique Readme Banner" src="https://github.com/henriquesbezerra/henriquesbezerra/blob/master/icons/background-gh.gif" />
 
 <br />
 <br />
