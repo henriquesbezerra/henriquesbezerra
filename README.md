@@ -1,4 +1,5 @@
-<img align="center"  alt="Henrique Readme Banner" title="Henrique Readme Banner" src="https://github.com/henriquesbezerra/henriquesbezerra/blob/master/icons/background-gh.gif" />
+![Henrique Readme Banner](https://github.com/henriquesbezerra/henriquesbezerra/blob/master/icons/background-gh.gif)
+
 <br />
 
 <a href="https://www.linkedin.com/in/henriquesbezerra" target="_blank" rel="nofollow">
@@ -16,8 +17,6 @@
 
 #### Hi There!, I`m Henrique Silva
 
-
----
 
 Web Developer with main experience as Front-end, B.S. in Information Systems from Universidade Estácio de Sá, Technical Education from Centro Federal de Educação Tecnológica Celso Suckow da Fonseca.
 
