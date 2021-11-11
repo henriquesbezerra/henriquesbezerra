@@ -18,6 +18,11 @@
 
 ## My Stats
 <!--START_SECTION:waka-->
+```text
+Markdown   48 mins         ███████████░░░░░░░░░░░░░░   44.17 % 
+YAML       33 mins         ███████▓░░░░░░░░░░░░░░░░░   31.06 % 
+PHP        26 mins         ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+```
 <!--END_SECTION:waka-->
 
 ### Connect with me:
