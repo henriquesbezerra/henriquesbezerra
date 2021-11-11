@@ -19,7 +19,7 @@
 
 I`m a web developer with main experience in Front-end development.
 
-B.S. in Information Systems from Universidade Estácio de Sá, Technical Education from CEFET (federal educational institution).
+B.Sc. in Information Systems from Universidade Estácio de Sá, Technical Education from CEFET (federal educational institution).
 Currently, I'm working as a full stack developer at Onawa, taking care and evolving an API in Laravel, Web applications in React and an App Android/iOS with React Native.
 
 I use this account mainly to save and share my experimental projects and study cases.
@@ -35,13 +35,11 @@ I use this account mainly to save and share my experimental projects and study c
   </div>  
   
 </details>
-
-<img alt="Henrique Silva | RocketSeat" align="right"  width="26px" src="https://github.com/henriquesbezerra/henriquesbezerra/blob/master/assets/gaming.gif?raw=true" />
-
 <br />
 
 
 ## :zap: A Few Quick Facts
+<img alt="Henrique Silva | RocketSeat" align="right"  width="26px" src="https://github.com/henriquesbezerra/henriquesbezerra/blob/master/assets/gaming.gif?raw=true" />
 
 - 🚀 Mastering: ```.js```, ```.ts```,  ```.html```, ```.css```, ```.gql```, ```.sql```.
 - 🌱 I want to learn: ```.rs```, ```.wasm```.
@@ -59,7 +57,6 @@ I use this account mainly to save and share my experimental projects and study c
   - Blockchain
   - Game Development
 - 👯 I’m looking to collaborate with other devs to learn more about game development
-
 <br />
 
 ## 🧰  My Toolbox
@@ -78,17 +75,16 @@ I use this account mainly to save and share my experimental projects and study c
 ![git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![NestJs](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)
 ![angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Php](https://img.shields.io/badge/-PHP-4F5B93?style=flat-square&logo=php&logoColor=white)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![html5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Brave browser](https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white)
-![Rollup](https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white)
 ![Three.js](https://img.shields.io/badge/-Three.js-049ef4?style=flat-square&logo=three.js&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)
 ![github actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Mysql](https://img.shields.io/badge/-mysql-4479a1?style=flat-square&logo=mysql&logoColor=white)
 
 </p>
-
 <br />
 
 ## :zap: Recent activity
