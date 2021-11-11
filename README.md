@@ -39,7 +39,7 @@ I use this account mainly to save and share my experimental projects and study c
 
 
 ## :zap: A Few Quick Facts
-<img alt="Henrique Silva | RocketSeat" align="right"  width="300pxpx" src="https://github.com/henriquesbezerra/henriquesbezerra/blob/master/assets/gaming2.gif?raw=true" />
+<img alt="Henrique Silva | RocketSeat" align="right"  width="250px" src="https://github.com/henriquesbezerra/henriquesbezerra/blob/master/assets/gaming2.gif?raw=true" />
 
 - 🚀 Mastering: ```.js```, ```.ts```,  ```.html```, ```.css```, ```.gql```, ```.sql```.
 - 🌱 I want to learn: ```.rs```, ```.wasm```.
