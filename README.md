@@ -35,9 +35,10 @@ I use this account mainly to save and share my experimental projects and study c
   </div>  
   
 </details>
+<br />
 
+### :zap: A Few Quick Facts
 #
-
 - 🚀 Mastering: ```.js```, ```.ts```,  ```.html```, ```.css```, ```.gql```, ```.sql```.
 - 🌱 I want to learn: ```.rs```, ```.wasm```.
 - ❄️ Other Skills:  ```.php```, ```.cpp```. 
@@ -55,15 +56,14 @@ I use this account mainly to save and share my experimental projects and study c
   - Game Development
 - 👯 I’m looking to collaborate with other devs to learn more about game development
 
-#
+<br /><br />
 
 ### 🧰  My Toolbox
-
+#
 ![NodeJs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![github actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
 ![Apollo](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white)
@@ -78,13 +78,14 @@ I use this account mainly to save and share my experimental projects and study c
 ![html5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Brave browser](https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white)
 ![Rollup](https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white)
-![d3js](https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-049ef4?style=flat-square&logo=three.js&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
+![github actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Mysql](https://img.shields.io/badge/-mysql-4479a1?style=flat-square&logo=mysql&logoColor=white)
+
 </p>
 
-
+<br /><br />
 
 ## :zap: Recent activity
 
