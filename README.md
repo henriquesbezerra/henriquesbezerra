@@ -35,7 +35,11 @@ I use this account mainly to save and share my experimental projects and study c
   </div>  
   
 </details>
+
+<img alt="Henrique Silva | RocketSeat" align="right"  width="26px" src="https://github.com/henriquesbezerra/henriquesbezerra/blob/master/assets/gaming.gif?raw=true" />
+
 <br />
+
 
 ## :zap: A Few Quick Facts
 
