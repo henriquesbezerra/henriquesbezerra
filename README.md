@@ -17,18 +17,21 @@
 
 
 
-I`m a web developer with main experience as Front-end, B.S. in Information Systems from Universidade Estácio de Sá, Technical Education from Centro Federal de Educação Tecnológica Celso Suckow da Fonseca.
+I`m a web developer with main experience in Front-end development.
 
-Currently I'm working as a full stack developer at Onawa, taking care and evolving an API in Laravel, Web applications in React and an App with React Native.
+B.S. in Information Systems from Universidade Estácio de Sá, Technical Education from CEFET (federal educational institution).
+Currently, I'm working as a full stack developer at Onawa, taking care and evolving an API in Laravel, Web applications in React and an App Android/iOS with React Native.
 
-I use this account mainly to save and share my experimental projects and case studies. 
+I use this account mainly to save and share my experimental projects and study cases.
+
 
 <details>
   <summary>🇧🇷 PT-Br</summary>
   <br />
   <div>      
-    Desenvolvedor Web com principal experiência como Front-end, Bacharel em Sistemas de Informação pela Universidade Estácio de Sá, Formação de nível técnico pelo Centro Federal de Educação Tecnológica Celso Suckow da Fonseca. <br /><br />
-    Atualmente estou trabalhando como full stack developer at Onawa, cuidando e evoluindo de uma API em Laravel, Web applications em React e um App com React Native.     
+    Desenvolvedor Web com principal experiência como Front-end, Bacharel em Sistemas de Informação pela Universidade Estácio de Sá, Formação de nível técnico pelo CEFET - Centro Federal de Educação Tecnológica Celso Suckow da Fonseca. <br /><br />
+    Atualmente estou trabalhando como full stack developer na Onawa, atuando na manutenção e inovação de uma API Laravel, Web Apps em React e um App Android/iOS em React Native.  <br /><br />
+    Eu utilizado essa conta principalmente para savar e compartilhar projetos experimentais e casos de estudo.
   </div>  
   
 </details>
@@ -40,9 +43,9 @@ I use this account mainly to save and share my experimental projects and case st
 - ❄️ Other Skills:  ```.php```, ```.cpp```. 
 - :dart: 2021/2022 Goals:
   - Improve my english skills;
+  - Improve my design patterns knowledges;
+  - Improve my testing softwares skills;
   - Build a simple blog in Github Pages to Save & Share my Studies;
-  - More experienced with design patterns;
-  - More experienced with testing softwares;
   - Develop a small html5 game;
   - Become a Javascript Enginer.  
 - 🧐 Interested in:
