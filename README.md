@@ -37,8 +37,8 @@ I use this account mainly to save and share my experimental projects and study c
 </details>
 <br />
 
-### :zap: A Few Quick Facts
-#
+## :zap: A Few Quick Facts
+
 - 🚀 Mastering: ```.js```, ```.ts```,  ```.html```, ```.css```, ```.gql```, ```.sql```.
 - 🌱 I want to learn: ```.rs```, ```.wasm```.
 - ❄️ Other Skills:  ```.php```, ```.cpp```. 
@@ -56,10 +56,10 @@ I use this account mainly to save and share my experimental projects and study c
   - Game Development
 - 👯 I’m looking to collaborate with other devs to learn more about game development
 
-<br /><br />
+<br />
 
-### 🧰  My Toolbox
-#
+## 🧰  My Toolbox
+
 ![NodeJs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white)
@@ -85,7 +85,7 @@ I use this account mainly to save and share my experimental projects and study c
 
 </p>
 
-<br /><br />
+<br />
 
 ## :zap: Recent activity
 
