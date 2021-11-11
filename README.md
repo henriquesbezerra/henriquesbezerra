@@ -108,8 +108,8 @@ PHP        26 mins         ██████░░░░░░░░░░░�
   #### :octocat: Github Latest Moves
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/henriquesbezerra/henriquesbezerra/pull/5) in [henriquesbezerra/henriquesbezerra](https://github.com/henriquesbezerra/henriquesbezerra)
-2. 💪 Opened PR [#5](https://github.com/henriquesbezerra/henriquesbezerra/pull/5) in [henriquesbezerra/henriquesbezerra](https://github.com/henriquesbezerra/henriquesbezerra)
+1. 🎉 Merged PR [#7](https://github.com/henriquesbezerra/henriquesbezerra/pull/7) in [henriquesbezerra/henriquesbezerra](https://github.com/henriquesbezerra/henriquesbezerra)
+2. 💪 Opened PR [#7](https://github.com/henriquesbezerra/henriquesbezerra/pull/7) in [henriquesbezerra/henriquesbezerra](https://github.com/henriquesbezerra/henriquesbezerra)
 <!--END_SECTION:activity-->
 
 </td>
