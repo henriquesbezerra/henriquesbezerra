@@ -97,7 +97,7 @@ I use this account mainly to save and share my experimental projects and study c
   
 <!--START_SECTION:waka-->
 ```text
-Week: 04 November, 2021 - 10 November, 2021
+Week: 05 November, 2021 - 11 November, 2021
 
 Markdown   2 hrs 46 mins   ████████████████▒░░░░░░░░   65.86 % 
 YAML       33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.40 % 
