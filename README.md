@@ -111,8 +111,8 @@ SQL        19 mins         ██░░░░░░░░░░░░░░░�
   #### :octocat: Github Latest Moves
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/henriquesbezerra/henriquesbezerra/pull/11) in [henriquesbezerra/henriquesbezerra](https://github.com/henriquesbezerra/henriquesbezerra)
-2. 💪 Opened PR [#11](https://github.com/henriquesbezerra/henriquesbezerra/pull/11) in [henriquesbezerra/henriquesbezerra](https://github.com/henriquesbezerra/henriquesbezerra)
+1. 🎉 Merged PR [#1](https://github.com/henriquesbezerra/henriquesbezerra.github.io/pull/1) in [henriquesbezerra/henriquesbezerra.github.io](https://github.com/henriquesbezerra/henriquesbezerra.github.io)
+2. 🗣 Commented on [#1](https://github.com/henriquesbezerra/henriquesbezerra.github.io/issues/1) in [henriquesbezerra/henriquesbezerra.github.io](https://github.com/henriquesbezerra/henriquesbezerra.github.io)
 <!--END_SECTION:activity-->
 
 </td>
