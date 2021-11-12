@@ -1,4 +1,4 @@
-![Henrique Readme Banner](https://github.com/henriquesbezerra/henriquesbezerra/blob/master/assets/background-gh.gif)
+![Henrique Readme Banner](https://github.com/henriquesbezerra/henriquesbezerra/blob/main/assets/background-gh.gif)
 ![](https://visitor-badge.glitch.me/badge?page_id=henriquesbezerra.henriquesbezerra)
 <a href="https://www.linkedin.com/in/henriquesbezerra" target="_blank">
   <img alt="Henrique Silva | LinkedIn" align="right" height="26px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -7,10 +7,10 @@
   <img  alt="Henrique Silva | Instagram" align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.domestika.org/pt/henriquesbezerra" target="_blank" rel="nofollow" >
-  <img alt="Henrique Silva | Domestika" align="right" width="26px" src="https://github.com/henriquesbezerra/henriquesbezerra/blob/master/assets/domestika-logo.png?raw=true" />
+  <img alt="Henrique Silva | Domestika" align="right" width="26px" src="https://github.com/henriquesbezerra/henriquesbezerra/blob/main/assets/domestika-logo.png?raw=true" />
 </a>
 <a href="https://app.rocketseat.com.br/me/henrique-silva-1567055993" target="_blank" rel="nofollow" >
-  <img alt="Henrique Silva | RocketSeat" align="right"  width="26px" src="https://github.com/henriquesbezerra/henriquesbezerra/blob/master/assets/rocketseat.ico?raw=true" />
+  <img alt="Henrique Silva | RocketSeat" align="right"  width="26px" src="https://github.com/henriquesbezerra/henriquesbezerra/blob/main/assets/rocketseat.ico?raw=true" />
 </a>
 
 ## Hi There!
@@ -39,7 +39,7 @@ I use this account mainly to save and share my experimental projects and study c
 
 
 ## :zap: A Few Quick Facts
-<img alt="Henrique Silva | RocketSeat" align="right"  width="250px" src="https://github.com/henriquesbezerra/henriquesbezerra/blob/master/assets/gaming2.gif?raw=true" />
+<img alt="Gamming at Night" align="right"  width="250px" src="https://github.com/henriquesbezerra/henriquesbezerra/blob/main/assets/gaming2.gif?raw=true" />
 
 - 🚀 Mastering: ```.js```, ```.ts```,  ```.html```, ```.css```, ```.gql```, ```.sql```.
 - 🌱 I want to learn: ```.rs```, ```.wasm```.
