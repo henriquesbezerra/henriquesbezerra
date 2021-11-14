@@ -97,13 +97,13 @@ I use this account mainly to save and share my experimental projects and study c
   
 <!--START_SECTION:waka-->
 ```text
-Week: 06 November, 2021 - 12 November, 2021
+Week: 07 November, 2021 - 13 November, 2021
 
-Markdown     3 hrs 40 mins   █████████████▓░░░░░░░░░░░   55.07 % 
-JavaScript   1 hr 1 min      ███▓░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-YAML         43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-PHP          32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-SQL          22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Markdown     3 hrs 47 mins   ██████████░░░░░░░░░░░░░░░   40.19 % 
+JavaScript   1 hr 41 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.00 % 
+YAML         57 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+HTML         57 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+SQL          39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
 ```
 <!--END_SECTION:waka-->
 </td>
