@@ -97,13 +97,13 @@ I use this account mainly to save and share my experimental projects and study c
   
 <!--START_SECTION:waka-->
 ```text
-Week: 12 November, 2021 - 18 November, 2021
+Week: 13 November, 2021 - 19 November, 2021
 
-JavaScript   9 hrs 13 mins   ██████████▒░░░░░░░░░░░░░░   41.87 % 
-PHP          2 hrs 21 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Markdown     1 hr 59 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-TypeScript   1 hr 50 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-GraphQL      1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+JavaScript   8 hrs 30 mins   ██████████▒░░░░░░░░░░░░░░   40.70 % 
+PHP          2 hrs 32 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+TypeScript   1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+GraphQL      1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+MDX          1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 ```
 <!--END_SECTION:waka-->
 </td>
