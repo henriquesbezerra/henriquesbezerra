@@ -99,11 +99,11 @@ I use this account mainly to save and share my experimental projects and study c
 ```text
 Week: 04 December, 2021 - 10 December, 2021
 
-JavaScript   2 hrs 41 mins   ████████████████░░░░░░░░░   64.59 % 
-Markdown     58 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.17 % 
-JSON         21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-PHP          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+JavaScript   2 hrs 42 mins   ██████████▒░░░░░░░░░░░░░░   41.80 % 
+PHP          2 hrs 7 mins    ████████▒░░░░░░░░░░░░░░░░   32.77 % 
+Markdown     58 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+JSON         21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Bash         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 ```
 <!--END_SECTION:waka-->
 </td>
