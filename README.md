@@ -87,13 +87,7 @@ I use this account mainly to save and share my experimental projects and study c
 </p>
 <br />
 
-## :zap: Recent activity
-
-<table width="800px">
-<tr>
-<td valign="top" width="50%">
-
-  #### 🕰 Weekly Development Breakdown
+### 🕰 Weekly Development Breakdown
   
 <!--START_SECTION:waka-->
 ```text
@@ -104,22 +98,9 @@ Markdown     2 hrs 6 mins    ██████▒░░░░░░░░░░
 TypeScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 <!--END_SECTION:waka-->
-</td>
-<td valign="top" width="50%">
 
-  #### :octocat: Github Latest Moves
-  
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/henriquesbezerra/henriquesbezerra.github.io/pull/1) in [henriquesbezerra/henriquesbezerra.github.io](https://github.com/henriquesbezerra/henriquesbezerra.github.io)
-2. 🗣 Commented on [#1](https://github.com/henriquesbezerra/henriquesbezerra.github.io/issues/1) in [henriquesbezerra/henriquesbezerra.github.io](https://github.com/henriquesbezerra/henriquesbezerra.github.io)
-<!--END_SECTION:activity-->
-
-</td>
-</tr>
-</table>
 
 [![waka-readme](https://github.com/henriquesbezerra/henriquesbezerra/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/henriquesbezerra/henriquesbezerra/actions/workflows/waka-readme.yml)
-[![update-activity](https://github.com/henriquesbezerra/henriquesbezerra/actions/workflows/update-activity.yml/badge.svg)](https://github.com/henriquesbezerra/henriquesbezerra/actions/workflows/update-activity.yml)
 
 
 
