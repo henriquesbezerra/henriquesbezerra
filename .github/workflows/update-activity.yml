@@ -2,14 +2,16 @@ name: update-activity
 
 on:
   schedule:
-    - cron: '0 0 * * 3'
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
 
     steps:
+      - uses: actions/checkout@v2
       - uses: jamesgeorge007/github-activity-readme@v0.3.6
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
