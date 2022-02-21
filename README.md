@@ -87,22 +87,3 @@ I use this account mainly to save and share my experimental projects and study c
 </p>
 <br />
 
-### 🕰 Weekly Development Breakdown
-  
-<!--START_SECTION:waka-->
-```text
-Week: 02 February, 2022 - 08 February, 2022
-
-JavaScript   3 hrs           ███████████▒░░░░░░░░░░░░░   44.91 % 
-PHP          1 hr 8 mins     ████▒░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Bash         50 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-TypeScript   45 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-SQL          37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-```
-<!--END_SECTION:waka-->
-
-
-[![waka-readme](https://github.com/henriquesbezerra/henriquesbezerra/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/henriquesbezerra/henriquesbezerra/actions/workflows/waka-readme.yml)
-
-
-
