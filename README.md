@@ -6,12 +6,6 @@
 <a href="https://www.instagram.com/_henri.silva/" target="_blank" rel="nofollow">
   <img  alt="Henrique Silva | Instagram" align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.domestika.org/pt/henriquesbezerra" target="_blank" rel="nofollow" >
-  <img alt="Henrique Silva | Domestika" align="right" width="26px" src="https://github.com/henriquesbezerra/henriquesbezerra/blob/main/assets/domestika-logo.png?raw=true" />
-</a>
-<a href="https://app.rocketseat.com.br/me/henrique-silva-1567055993" target="_blank" rel="nofollow" >
-  <img alt="Henrique Silva | RocketSeat" align="right"  width="26px" src="https://github.com/henriquesbezerra/henriquesbezerra/blob/main/assets/rocketseat.ico?raw=true" />
-</a>
 
 ## Hi There!
 
@@ -44,13 +38,13 @@ I use this account mainly to save and share my experimental projects and study c
 - 🚀 Mastering: ```.js```, ```.ts```,  ```.html```, ```.css```, ```.gql```, ```.sql```.
 - 🌱 I want to learn: ```.rs```, ```.wasm```.
 - ❄️ Other Skills:  ```.php```, ```.cpp```. 
-- :dart: 2021/2022 Goals:
+- :dart: 2022/2023 Goals:
   - Improve my english skills;
   - Improve my design patterns knowledges;
   - Improve my testing softwares skills;
   - Build a simple blog in Github Pages to Save & Share my Studies;
   - Develop a small html5 game;
-  - Become a Javascript Enginer.  
+  - Become a Software Architect.  
 - 🧐 Interested in:
   - Agile Development;
   - ThreeJs
