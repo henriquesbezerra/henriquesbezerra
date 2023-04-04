@@ -35,10 +35,10 @@ I use this account mainly to save and share my experimental projects and study c
 ## :zap: A Few Quick Facts
 <img alt="Gamming at Night" align="right"  width="250px" src="https://github.com/henriquesbezerra/henriquesbezerra/blob/main/assets/gaming2.gif?raw=true" />
 
-- 🚀 Mastering: ```.js```, ```.ts```,  ```.html```, ```.css```, ```.gql```, ```.sql```.
-- 🌱 I want to learn: ```.rs```, ```.wasm```.
+- 🚀 Mastering: ```.ts```, ```.gql```, ```.sql```.
+- 🌱 I want to learn: ```go```, ```.rs```, ```.wasm```.
 - ❄️ Other Skills:  ```.php```, ```.cpp```. 
-- :dart: 2022/2023 Goals:
+- :dart: 2023/2024 Goals:
   - Improve my english skills;
   - Improve my design patterns knowledges;
   - Improve my testing softwares skills;
@@ -46,11 +46,11 @@ I use this account mainly to save and share my experimental projects and study c
   - Develop a small html5 game;
   - Become a Software Architect.  
 - 🧐 Interested in:
-  - Agile Development;
-  - ThreeJs
-  - Blockchain
-  - Game Development
-- 👯 I’m looking to collaborate with other devs to learn more about game development
+  - ThreeJs;
+  - Blockchain;
+  - Game Development;
+  - Dart Lang;
+  - Pixel Art;
 <br />
 
 ## 🧰  My Toolbox
