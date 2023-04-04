@@ -1,11 +1,5 @@
 ![Henrique Readme Banner](https://github.com/henriquesbezerra/henriquesbezerra/blob/main/assets/background-gh.gif)
 ![](https://visitor-badge.glitch.me/badge?page_id=henriquesbezerra.henriquesbezerra)
-<a href="https://www.linkedin.com/in/henriquesbezerra" target="_blank">
-  <img alt="Henrique Silva | LinkedIn" align="right" height="26px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/_henri.silva/" target="_blank" rel="nofollow">
-  <img  alt="Henrique Silva | Instagram" align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 
 ## Hi There!
 
